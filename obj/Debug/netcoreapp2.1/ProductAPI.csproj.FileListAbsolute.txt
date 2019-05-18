@@ -1,0 +1,14 @@
+C:\Users\fanta\Documents\VSCode\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.deps.json
+C:\Users\fanta\Documents\VSCode\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.json
+C:\Users\fanta\Documents\VSCode\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.runtimeconfig.dev.json
+C:\Users\fanta\Documents\VSCode\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.dll
+C:\Users\fanta\Documents\VSCode\ProductAPI\bin\Debug\netcoreapp2.1\ProductAPI.pdb
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.csprojAssemblyReference.cache
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.csproj.CoreCompileInputs.cache
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cache
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorAssemblyInfo.cs
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfoInputs.cache
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.AssemblyInfo.cs
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.RazorTargetAssemblyInfo.cache
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.dll
+C:\Users\fanta\Documents\VSCode\ProductAPI\obj\Debug\netcoreapp2.1\ProductAPI.pdb
